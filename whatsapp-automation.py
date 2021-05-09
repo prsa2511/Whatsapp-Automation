@@ -16,7 +16,7 @@ def check_exists_by_xpath(xpath):
 		return False
 	return True
 
-contact = "Last benchers Ltians"
+contact = "enter_contact/group_name"
 text = "Hey, this message was sent using Selenium"
 
 #create cache and launch web whatsapp
